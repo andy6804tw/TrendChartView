@@ -22,7 +22,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.andy6804tw.trendchartview.MainActivity">
+    tools:context="com.andy6804tw.trendchartview.MainActivity"
+    android:background="@mipmap/night">
 
     <ImageView
         android:layout_width="match_parent"

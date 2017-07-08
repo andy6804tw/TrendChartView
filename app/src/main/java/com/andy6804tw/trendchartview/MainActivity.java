@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.test);
+        setContentView(R.layout.activity_main);
         trendYAxis = (TrendYAxisView) findViewById(R.id.trend_y_axis);
         svContainer = (HorizontalScrollChartParentView) findViewById(R.id.sv_container);
         trendChartView = (TrendChartView) findViewById(R.id.trend_chart_view);
