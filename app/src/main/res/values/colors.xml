@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--AQI 背景颜色-->
+    <color name="aqi_main_best">#45e27d</color>
+    <color name="aqi_main_good">#D7AF0C</color>
+    <color name="aqi_main_mild">#F39900</color>
+    <color name="aqi_main_moderate">#DF6A56</color>
+    <color name="aqi_main_severe">#7A68D0</color>
+    <color name="aqi_main_bad">#9D4D7B</color>
+    <color name="aqi_main_other">#D67503</color>
+</resources>

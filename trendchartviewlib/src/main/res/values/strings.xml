@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrendChartViewlib</string>
+    <string name="today">今天</string>
+
+    <string name="pm_describe_1">優</string>
+    <string name="pm_describe_2">良</string>
+    <string name="pm_describe_3">輕度</string>
+    <string name="pm_describe_4">中度</string>
+    <string name="pm_describe_5">重度</string>
+    <string name="pm_describe_6">嚴重</string>
+    <string name="pm_describe_7">爆表了！！</string>
+</resources>
